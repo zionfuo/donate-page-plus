@@ -2,10 +2,9 @@
 
 这是一系列整理好的捐赠按钮样式。
 
-[Simple](https://github.com/Kaiyuan/donate-page/tree/gh-pages/simple)
+[https://cdn.rawgit.com/zionfuo/donate-page-plus/6a958564/simple/index.html](https://cdn.rawgit.com/zionfuo/donate-page-plus/6a958564/simple/index.html)
 
-<video class="share-video" id="share-video" poster="https://thumbs.gfycat.com/TatteredAlarmingCopperhead-poster.jpg" autoplay="" muted="" loop=""><source id="webmSource" src="https://zippy.gfycat.com/TatteredAlarmingCopperhead.webm" type="video/webm"><source id="mp4Source" src="https://zippy.gfycat.com/TatteredAlarmingCopperhead.mp4" type="video/mp4"><img title="Sorry, your browser doesn't support HTML5 video." src="https://i.imgur.com/yNz5vJc.gif"></video>
----
+![](https://ws3.sinaimg.cn/large/c38cd5eagy1fhkm3c6er8g20a508vb2a.gif)
 
 ### License
 
