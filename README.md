@@ -4,7 +4,7 @@
 
 [https://cdn.rawgit.com/zionfuo/donate-page-plus/6a958564/simple/index.html](https://cdn.rawgit.com/zionfuo/donate-page-plus/6a958564/simple/index.html)
 
-![image](https://user-images.githubusercontent.com/16535685/119299400-6b375400-bc91-11eb-8aa1-9a7c1e6336bf.png)
+![image](https://cdn.jsdelivr.net/gh/zionfuo/img@master/2021/c38cd5eagy1fhkm3c6er8g20a508vb2a.gif)
 
 ### License
 
